@@ -1,1 +1,16 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
 
+body{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal; 
+    color: #212121;
+    
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
